@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👀 I’m interested in .NET and Blockchain
+- 👀 I’m interested in .NET, Java and Blockchain
 - 🌱 I’m currently learning smartcontract with solidy
 - 💞️ I’m looking to collaborate on blockchain projects
 
