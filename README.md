@@ -22,5 +22,4 @@ Plateforme permettant d’exploiter des contrats de travail via **IA (RAG)** :
 
 ## 📫 Me contacter
 
-* LinkedIn
-* Email
+* [LinkedIn](https://www.linkedin.com/in/st%C3%A9phane-dorlac-ba1480a/)
