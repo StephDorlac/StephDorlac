@@ -1,9 +1,13 @@
-### Hi there 👋
+💻 Développeur C# / Java
+🔐 Intéressé par la sécurité & la vie privée  
+⚙️ Backend, APIs, systèmes distribués
+🔐 Sensible aux problématiques de sécurité & vie privée
+🤖 IA appliquée (RAG, LLM, automatisation)
 
-- 👀 I’m interested in .NET, Java, IA and Blockchain
-- 🌱 I’m currently learning smartcontract
-- 💞️ I’m looking to collaborate on API REST projects, IA ...
+🚀 Projet phare : ContratPilot
+🔗 https://contratpilot.fr
+Plateforme de gestion et d’analyse de contrats de travail, combinant IA (RAG) et sécurité.
 
-<!--
-**StephDorlac/StephDorlac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 📫 Me contacter
+- LinkedIn
+- Email
