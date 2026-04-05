@@ -1,13 +1,26 @@
-💻 Développeur C# / Java
-🔐 Intéressé par la sécurité & la vie privée  
-⚙️ Backend, APIs, systèmes distribués
-🔐 Sensible aux problématiques de sécurité & vie privée
+# 👋 Salut, 
+
+💻 Développeur Backend C# / Java
+
+⚙️ APIs, systèmes distribués
+
+🔐 Spécialisé en sécurité & protection des données
+
 🤖 IA appliquée (RAG, LLM, automatisation)
 
-🚀 Projet phare : ContratPilot
+
+## 🚀 Projet phare : ContratPilot
 🔗 https://contratpilot.fr
-Plateforme de gestion et d’analyse de contrats de travail, combinant IA (RAG) et sécurité.
+
+Plateforme permettant d’exploiter des contrats de travail via **IA (RAG)** :
+
+* 🔎 recherche sémantique
+* 💬 interrogation intelligente des documents
+* 🔐 gestion sécurisée des données sensibles
+
+---
 
 ## 📫 Me contacter
-- LinkedIn
-- Email
+
+* LinkedIn
+* Email
