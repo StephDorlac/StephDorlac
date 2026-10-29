@@ -8,6 +8,8 @@ Spécialisé en sécurité & protection des données
 
 IA appliquée (RAG, LLM, automatisation)
 
+Gestion de projet : SDD (Spec-Driven Development)
+
 
 ##  Projet phare : ContratPilot
  https://contratpilot.fr
