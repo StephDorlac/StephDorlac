@@ -1,6 +1,6 @@
 # Bonjour, 
 
-Développeur Backend C# / Java
+Développeur Backend C# / Java / Gestion de projet
 
 APIs, systèmes distribués
 
